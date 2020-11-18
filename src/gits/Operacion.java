@@ -10,5 +10,9 @@ package gits;
  * @author usuario1
  */
 public class Operacion {
+public int suma( int num1, int num2 ){
+   int res = num1+num2;
+   return res;
+}
     
 }
