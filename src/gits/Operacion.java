@@ -15,4 +15,8 @@ public int suma( int num1, int num2 ){
    return res;
 }
     
+    public int resta( int a, int b ){
+        return a-b;
+    }
+    
 }
